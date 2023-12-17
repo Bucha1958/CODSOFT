@@ -20,4 +20,4 @@ A simple console-based ATM Machine simulation written in Java. This project allo
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone [https://github.com/Bucha1958.git]
+   git clone https://github.com/Bucha1958.git
